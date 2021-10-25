@@ -1,17 +1,7 @@
 {
-  "array": [
-    1,
-    2,
-    3
-  ],
-  "boolean": true,
-  "color": "gold",
-  "null": null,
-  "number": 123,
-  "object": {
-    "a": "b",
-    "c": "d"
-  },
-  "string": "Hello World",
-  "DD":"sdsdd"
+  "id":123456,
+  "key":safad54564a6w,
+  "x":100,
+  "y":100,
+  "z":100
 }
